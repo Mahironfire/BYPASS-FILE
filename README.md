@@ -3,8 +3,8 @@
 
 ## <b>installation</b>
 
-🔥 _CRACK FILE_ 🔥
-👇
+🔥 _CRACK 👇 FILE_ 🔥
+
 - `pkg update`
 - `pkg upgrade`
 - `pkg install git`
